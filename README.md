@@ -9,3 +9,5 @@ I went on a [coroutine/subroutine](https://stackoverflow.com/questions/49005651/
 [Blocking/Non-blocking/Synchronous/Asynchronous ](https://stackoverflow.com/questions/2625493/asynchronous-and-non-blocking-calls-also-between-blocking-and-synchronous)
 
 [Python coroutine & eventloop](https://www.youtube.com/watch?v=GSk0tIjDT10&t=1213s)
+
+[Python coroutines under the hood](https://www.youtube.com/watch?v=1LTHbmed3D4)
