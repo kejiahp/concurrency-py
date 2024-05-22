@@ -30,6 +30,8 @@ async def make_shift_future():
     could be an error or an actual result.
 
     We are waiting for a value of the execution of the coroutine
+    
+    you can also use: (asyncio.Future()) to create a future 
     """
     loop = asyncio.get_event_loop()
     future = loop.create_future()
